@@ -1,1 +1,4 @@
-bla.groovy
+// bla.groovy
+def printMessage() {
+    echo "Hello from someScript!"
+}
